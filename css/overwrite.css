@@ -1,0 +1,18 @@
+h1 {
+    color: white;
+    /* outline: 5px solid black; */
+    text-shadow: 3px 3px #000000;
+}
+
+.arial {
+    font-family: Arial, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.arial2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+    text-align: left;
+}
