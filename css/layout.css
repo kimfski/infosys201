@@ -101,3 +101,6 @@ a:visited {
     font-size: xx-small;
     border: 5px;
 }
+:target{
+    background-color: rgb(204, 172, 90);
+}
